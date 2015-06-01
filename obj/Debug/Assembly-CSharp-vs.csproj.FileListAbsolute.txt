@@ -1,0 +1,13 @@
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\obj\Debug\Assembly-CSharp.dll
+C:\Users\Azat\Documents\GitHub\BT_Beeplanez\obj\Debug\Assembly-CSharp.pdb
